@@ -9,7 +9,7 @@
     <key>Input</key>
     <dict>
         <key>NAME</key>
-        <string>GoogleEarthPro</string>
+        <string>Google Earth Pro</string>
         <key>DOWNLOAD_URL</key>
         <string>https://dl.google.com/earth/client/advanced/current/GoogleEarthProMacNoUpdate-Intel.dmg</string>
     </dict>
