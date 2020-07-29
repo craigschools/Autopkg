@@ -16,7 +16,7 @@
     <key>MinimumVersion</key>
     <string>0.2.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.autopkg.pkg.GoogleEarthPro</string>
+    <string>com.github.craigschool.autopkg.pkg.GoogleEarthPro</string>
     <key>Process</key>
     <array>
         <dict>
