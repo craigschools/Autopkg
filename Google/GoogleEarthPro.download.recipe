@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads latest Google Earth Pro disk image.</string>
     <key>Identifier</key>
-    <string>com.github.craigschools.Autopkg.download.google-earth-pro</string>
+    <string>com.github.craigschools.Autopkg.download.GoogleEarthPro</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
